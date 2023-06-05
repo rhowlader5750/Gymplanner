@@ -1,0 +1,33 @@
+Category: abs
+2 Sets:3 Reps:4
+crunch Sets:3 Reps:2
+vtaper Sets:6 Reps:4
+
+Category: back
+lats Sets:4 Reps:5
+rows Sets:3 Reps:4
+pull Sets:3 Reps:2
+lateral Sets:4 Reps:5
+benchrow Sets:3 Reps:4
+pull-up Sets:3 Reps:2
+
+
+Category: legs
+squats Sets:4 Reps:5
+extentions Sets:3 Reps:4
+goblin Sets:3 Reps:2
+
+
+Category: chest
+bench Sets:4 Reps:5
+3 Sets:3 Reps:4
+incline Sets:3 Reps:2
+urmom Sets:6 Reps:4
+
+Category: arms
+curl Sets:4 Reps:5
+anothercurk Sets:3 Reps:4
+morecurl Sets:3 Reps:2
+cry Sets:6 Reps:4
+
+
